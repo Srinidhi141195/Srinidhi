@@ -14,21 +14,21 @@
 
 ### <img src="https://media.licdn.com/dms/image/C4D12AQGPHPw1EQRu1Q/article-cover_image-shrink_600_2000/0/1645684142018?e=2147483647&v=beta&t=SllF47i-q6d9iufTZS9hMwkbbL5VM7cRdy6oJXUXCtM" width="50"> A little more about me...  
 
-Srinidhi = {
-    "pronouns": "He" or "Him",
-    "code": [ "Python"],
-    "askMeAbout": ["AWS DevOps", "Databases", "IT Networking"],
-    "technologies": {
-        "backEnd": {
-            "js": ["AWS", "IT Networking", "Databases"],
-        },
-        "devOps": ["AWS", "Docker🐳", "Route53"],
-        "databases": ["DynamoDB", "MySql"],
-    },
-    "architecture": ["Serverless Architecture", "Tier-2 and Tier3 Architectures", "EDA"],
-    "currentFocus": "Get a full-time opportunity in the AWS domain",
-    "funFact": "There are two ways to write error-free programs; only the third one works"
-}
+<p align="justify">
+  With <strong>4 years</strong> of experience in AWS, I specialize in cloud-based solutions and infrastructure management. My focus includes implementing <strong>WebRTC and real-time requirements</strong> on the AWS platform. I leverage AWS services such as Lambda, EC2, and Route53 to enhance the functionality of applications.
+
+  I have hands-on experience in <strong>DevOps practices on AWS</strong>, using tools like Docker🐳 for containerization and managing scalable solutions. My expertise extends to <strong>cloud networking architectures</strong>, including virtual networks, VPN, Express Route/Direct Connect, and Load Balancers.
+
+  Migrating on-premise infrastructure has been a significant part of my journey, with successful transitions from Avaya AVP and VMWare to AWS Connect, AWS Cloud, and AWS Lex since 2019. I've also worked on database migrations, moving from NoSQL Cassandra Database to AWS DynamoDB using tools like AWS Schema Conversion Tool and Database Migration Service.
+
+  In addition, I automate cloud deployment using Python, CloudFormation Templates (CFT) in JSON and YAML formats, and CI/CD tools like Jenkins. My experience includes configuring high availability, disaster recovery with AWS Route 53, and utilizing various Lambda services for automating cloud functionality.
+
+  As part of a 20-member team trained by Avaya, I've contributed to new product implementation and cloud migration projects. My proficiency covers IAM, RDS, VPC, SES, SQS, SNS services, creating custom IAM policies, roles, and user management within AWS regions.
+
+  My goal is to continue creating valuable products, and I am eager to contribute my AWS expertise in an environment that fosters skill development and innovation.
+</p>
+<br>
+
 
 
 ```
