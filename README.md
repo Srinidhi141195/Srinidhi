@@ -22,12 +22,11 @@ Srinidhi = {
         "backEnd": {
             "js": ["AWS", "IT Networking", "Databases"],
         },
-
         "devOps": ["AWS", "Docker🐳", "Route53"],
         "databases": ["DynamoDB", "MySql"],
     },
     "architecture": ["Serverless Architecture", "Tier-2 and Tier3 Architectures", "EDA"],
-    "currentFocus": "Get a full time opportunity in the AWS domain",
+    "currentFocus": "Get a full-time opportunity in the AWS domain",
     "funFact": "There are two ways to write error-free programs; only the third one works"
 }
 
