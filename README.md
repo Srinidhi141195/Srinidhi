@@ -15,7 +15,7 @@
 ### <img src="https://media.licdn.com/dms/image/C4D12AQGPHPw1EQRu1Q/article-cover_image-shrink_600_2000/0/1645684142018?e=2147483647&v=beta&t=SllF47i-q6d9iufTZS9hMwkbbL5VM7cRdy6oJXUXCtM" width="50"> A little more about me...  
 
 <p align="justify">
-  With <strong>4 years</strong> of experience in AWS, I specialize in cloud-based solutions and infrastructure management. My focus includes implementing <strong>WebRTC and real-time requirements</strong> on the AWS platform. I leverage AWS services such as Lambda, EC2, and Route53 to enhance the functionality of applications.
+  With <strong>4 years</strong> of experience in AWS, I specialize in cloud-based solutions and infrastructure management. My focus includes implementing <strong>cloud services and real-time requirements</strong> on the AWS platform. I leverage AWS services such as Lambda, EC2, and Route53 to enhance the functionality of applications.
 
   I have hands-on experience in <strong>DevOps practices on AWS</strong>, using tools like Docker🐳 for containerization and managing scalable solutions. My expertise extends to <strong>cloud networking architectures</strong>, including virtual networks, VPN, Express Route/Direct Connect, and Load Balancers.
 
